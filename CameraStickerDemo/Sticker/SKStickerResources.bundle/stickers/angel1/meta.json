@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "name": "angel1",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "items": [
+       
+              {
+              "type": 1,
+              "alignPos": 0,
+              "scaleWidth": 1,
+              "scaleHight": 0,
+              "offsetX": 0.02,
+              "offsetY": 0.9,
+              "folder": "F_gift",
+              "frames": 52,
+              "frameDuration": 100,
+              "width": 360,
+              "height": 169,
+              "triggerType": 0
+              },
+     ]
+}
