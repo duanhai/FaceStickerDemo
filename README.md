@@ -11,7 +11,7 @@
 
 
 ### 效果图
-<p><a href="https://github.com/Sinkup/CameraStickerDemo/blob/master/CameraStickerDemo/Sticker/SKStickerResources.bundle/stickers/angel/preview.jpg" target="_blank"><img src="https://github.com/Sinkup/CameraStickerDemo/blob/master/CameraStickerDemo/Sticker/SKStickerResources.bundle/stickers/angel/preview.jpg?raw=true" alt="alt text" height="548" width="309"></a></p>
+<p><a href="https://github.com/duanhai/FaceStickerDemo/blob/master/CameraStickerDemo/Sticker/SKStickerResources.bundle/stickers/angel/preview.jpg" target="_blank"><img src="https://github.com/duanhai/FaceStickerDemo/blob/master/CameraStickerDemo/Sticker/SKStickerResources.bundle/stickers/angel/preview.jpg?raw=true" alt="alt text" height="548" width="309"></a></p>
 
 
 
