@@ -15,3 +15,4 @@
 
 
 
+### p.s. 原作者是 https://github.com/Sinkup/CameraStickerDemo,如有其它影响可以告知我删除。
